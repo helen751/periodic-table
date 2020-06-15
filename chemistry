@@ -1,0 +1,266 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+	<title>periodic table</title>
+	<link rel="stylesheet" type="text/css" href="css/my file.css">
+</head>
+<h1>the periodic table</h1>
+<table class="first-table">
+	<tr class="nose">
+		<td></td><td class="ez">1</td><td class="zo">2</td><td class="wa">3</td><td></td><td class="wa">4</td><td class="wa">5</td><td class="wa">6</td><td class="wa">7</td><td class="wa">8</td><td class="wa">9</td><td class="wa">10</td><td class="wa">11</td><td class="wa">12</td><td class="bia">13</td><td class="tit">14</td><td class="mil">15</td><td class="ful">16</td><td class="tol">17</td><td class="call">18</td>
+	</tr>
+<tr  class="first-tr">
+<td class="not">1</td><td class="iron">H <sup class="ki">1</sup><sub class="so">hydrogen</sub></td><td></td><td></td><td></td><td></td> <td class="pit" colspan="8"><h2><fieldset class="tf">there are 101 existing elements in  the periodic table</fieldset></h2></td><td></td><td></td> <td></td><td></td><td></td><td class="five-tr">He<sup class="ki">2</sup><sub class="so">helium</sub></td>
+</tr>
+<tr class="first-tr">
+<td class="not">2</td><td class="first-td">li<sup class="ki">3</sup><sub class="so">lithium</sub></td ><td class="fourth-td">Be <sup class="ki">4</sup><sub class="so">berylium</sub></td><td></td><td></td><td colspan="2" rowspan="2" class="table-text"><fieldset class="ty"><p class="fit"> atomic #</p><p class="my">symbol</p><p class="ol">name</p></fieldset></td><td class="break" colspan="2" rowspan="2"><button>C</button>solid<br><button>Hg</button>liquid<br><button>H</button>Gas<br><button>Rf</button>unknown</td><td class="breakin" colspan="3" rowspan="2"><button class="box">u</button>alkali metals<br><button class="boxin">u</button>alkaline earth metals<br><button class="boxun">u</button>transitional metals<br><button class="boxto">u</button>other metals</td><td class="due" colspan="2" rowspan="2"><button class="hat">u</button>metaloids<br><button class="po">u</button>none metals<br><button class="fu">u</button>noble gases<br><button class="ag">u</button>lanthenoids<br><button class="you">u</button>actinides</td><td class="tenth-td"> B<sup class="ki">5</sup><sub class="so">boron</sub></td><td class="six-td">C<sup class="ki">6</sup><sub class="so">carbon</sub></td><td class="six-td">N<sup class="ki">7</sup><sub class="so">nitrogen</sub></td><td class="six-td">O<sup class="ki">8</sup><sub class="so">oxygen </sub></td><td class="six-td">F<sup class="ki">9</sup><sub class="so">fluorine</sub></td><td class="five-tr">Ne<sup class="ki">10</sup><sub class="so">neon </sub></td>
+</tr>
+<tr class="first-tr">
+<td class="not">3</td><td class="first-td">Na <sup class="ki">11</sup><sub class="so">sodium</sub></td><td class="fourth-td">mg <sup class="ki">12</sup><sub class="so">magnessium</sub></td><td></td><td></td><td class="ninth-td">Al<sup class="ki">13</sup><sub class="so">alluminium</sub></td><td class="tenth-td">Si<sup class="ki">14</sup><sub class="so">silicon</sub></td><td class="six-td">P<sup class="ki">15</sup><sub class="so">phosphorus</sub></td><td class="six-td">S<sup class="ki">16</sup><sub class="so">sulphur</sub></td><td class="six-td">Cl<sup class="ki">17</sup><sub class="so">chlorine</sub></td><td class="five-tr">Ar<sup class="ki">18</sup><sub class="so">argon </sub></td>
+</tr>
+<tr class="first-tr">
+<td class="not">4</td><td class="first-td">k<sup class="ki">19</sup><sub class="so">pottasium</sub></td><td class="fourth-td">Ca<sup class="ki">20</sup><sub class="so">calcium</sub></td><td class="eight-td">Sc<sup class="ki">21</sup><sub class="so">scandium</sub></td><td></td><td class="fifth-td">Ti<sup class="ki">22</sup><sub class="so">titanium</sub></td><td class="fifth-td">V<sup class="ki">23</sup><sub class="so">vernadium</sub></td><td class="fifth-td">Cr<sup class="ki">24</sup><sub class="so">chromium</sub></td><td class="fifth-td">mn <sup class="ki">25</sup><sub class="so">manganese</sub></td><td class="fifth-td">Fe<sup class="ki">26</sup><sub class="so">iron</sub></td><td class="fifth-td">Co<sup class="ki">27</sup><sub class="so">colbat</sub></td><td class="fifth-td">Ni<sup class="ki">28</sup><sub class="so">nickel</sub></td><td class="fifth-td">Cu<sup class="ki">29</sup><sub class="so">copper</sub></td><td class="ninth-td">Zn<sup class="ki">30</sup><sub class="so">zinc</sub></td><td class="ninth-td">Ga<sup class="ki">31</sup><sub class="so">galium</sub></td><td class="tenth-td">Ge<sup class="ki">32</sup><sub class="so">germanium</sub></td><td class="tenth-td">As<sup class="ki">33</sup><sub class="so">arsenic </sub></td><td class="six-td">Se<sup class="ki">34</sup><sub class="so">selenium</sub></td><td class="six-td">Br<sup class="ki">35</sup><sub class="so">bromine</sub></td><td class="five-tr">Kr<sup class="ki">36</sup><sub class="so">krypton</sub></td>
+</tr>
+<tr class="first-tr">
+<td class="not">5</td><td class="first-td">Rb<sup class="ki">37</sup><sub class="so">rubidium</sub></td><td class="fourth-td">Sr<sup class="ki">38</sup><sub class="so">strontium</sub></td><td class="eight-td">Y<sup class="ki">39</sup><sub class="so">yitrium</sub></td><td></td><td class="fifth-td">Zr<sup class="ki">40</sup><sub class="so">zirconium</sub></td><td class="fifth-td">Nb<sup class="ki">41</sup><sub class="so">niobium</sub></td><td class="fifth-td">Mo<sup class="ki">42</sup><sub class="so">molybdenium</sub></td><td class="fifth-td">Tc<sup class="ki">43</sup><sub class="so">technetium</sub></td><td class="fifth-td">Ru<sup class="ki">44</sup><sub class="so">rhuthenium</sub></td><td class="fifth-td">Rh<sup class="ki">45</sup><sub class="so">rhodium,</sub></td><td class="fifth-td">Pd<sup class="ki">46</sup><sub class="so">palladium</sub></td><td class="fifth-td">Ag<sup class="ki">47</sup><sub class="so">silver</sub></td><td class="ninth-td">Cd<sup class="ki">48</sup><sub class="so">cadmium</sub></td><td class="ninth-td">In<sup class="ki">49</sup><sub class="so">indium</sub></td><td class="ninth-td">Sn<sup class="ki">50</sup><sub class="so">tin</sub></td><td class="tenth-td">Sb<sup class="ki">51</sup><sub class="so">antimony</sub></td><td class="tenth-td">Te<sup class="ki">52</sup><sub class="so">tellerium</sub></td><td>I<sup class="ki">53</sup><sub class="so">iodine</sub></td><td class="five-tr">Xe <sup class="ki">54</sup><sub class="so">xenon</sub></td>
+</tr>
+<tr class="first-tr">
+<td class="not">6</td><td class="first-td">Cs<sup class="ki">55</sup><sub class="so">cesium</sub></td><td class="fourth-td">Ba<sup class="ki">56</sup><sub class="so">barium</sub></td><td></td><td></td><td class="fifth-td">Hf<sup class="ki">72</sup><sub class="so">hafnium</sub></td><td class="fifth-td">Ta<sup class="ki">73</sup><sub class="so">tantalum</sub></td></td><td class="fifth-td">W<sup class="ki">74</sup><sub class="so">tungsten</td><td class="fifth-td">Re<sup class="ki">75</sup><sub class="so">rhenium</sub></td><td class="fifth-td">Os<sup class="ki">76</sup><sub class="so">osmium</sub></td><td class="fifth-td">Ir<sup class="ki">77</sup><sub class="so">iridium</sub></td><td class="fifth-td">Pt<sup class="ki">78</sup><sub class="so">platinum</sub></td><td class="fifth-td">Au<sup class="ki">79</sup><sub class="so">gold</sub></td><td class="ninth-td">Hg<sup class="ki">80</sup><sub class="so">mecury</sub></td><td class="ninth-td">Ti<sup class="ki">81</sup><sub class="so">thallium</sub></td><td class="ninth-td">Pb<sup class="ki">82</sup><sub class="so">lead</sub></td><td class="ninth-td">Bi<sup class="ki">83</sup><sub class="so">bismuth</sub></td><td class="ninth-td">Po<sup class="ki">84</sup><sub class="so">polonium</sub></td><td class="tenth-td">At<sup class="ki">85</sup><sub class="so">astatine</sub></td><td class="five-tr">Rn<sup class="ki">86</sup><sub class="so">radon</sub></td>
+</tr>
+<tr class="first-tr">
+<td class="not">7</td><td class="first-td">Fr<sup class="ki">87</sup><sub class="so">francium</sub></td><td class="fourth-td">Ra<sup class="ki">88</sup><sub class="so">radium</sub></td><td></td><td></td><td class="fifth-td">Rf<sup class="ki">104</sup><sub class="so">rutherfordium</sub></td><td class="fifth-td">Db<sup class="ki">105</sup><sub class="so">dubnium</sub></td><td class="fifth-td">Sg<sup class="ki">106</sup><sub class="so">seaborgium</sub></td><td class="fifth-td">Bh<sup class="ki">107</sup><sub class="so">bhorium</sub></td><td class="fifth-td">Hs<sup class="ki">108</sup><sub class="so">hassium</sub></td><td class="two-td">Mt<sup class="ki">109</sup><sub class="so">meitnerium,</sub></td><td class="two-td">Ds<sup class="ki">110</sup><sub class="so">damstadtium</sub></td><td class="two-td">Rg<sup class="ki">111</sup><sub class="so">roentgenium</sub></td><td class="ninth-td">Cn<sup class="ki">112</sup><sub class="so">copernicium</sub></td><td class="two-td">Nh<sup class="ki">113</sup><sub class="so">nihonium</sub></td><td class="two-td">Fi<sup class="ki">114</sup><sub class="so">flerovium</sub></td><td class="two-td">Mc<sup class="ki">115</sup><sub class="so">moscovium</sub></td><td class="two-td">Lv<sup class="ki">116</sup><sub class="so">livermorium</sub></td><td class="two-td">Ts<sup class="ki">117</sup><sub class="so">tennessine</sub></td><td class="two-td">Og<sup class="ki">118</sup><sub class="so">oganesson</sub></td>
+</tr>
+</sub></td></tr></table>
+
+<table class="second-table">
+		<tr>
+			<td class="aid">.</td><td class="second-td">La<sup class="ki">57</sup><sub class="so">lanthenium</sub></td><td class="second-td">Ce<sup class="ki">58</sup><sub class="so">cerium</sub></td> <td class="second-td">Pr<sup class="ki">59</sup><sub class="so">praseodymium</td><td class="second-td">Nd<sup class="ki">60</sup><sub class="so">neodymium</sub></td><td class="second-td">Pm<sup class="ki">61</sup><sub class="so">promethium,</sub></td><td class="second-td">Sm<sup class="ki">62</sup><sub class="so">samarium</sub></td><td class="second-td">Eu<sup class="ki">63</sup><sub class="so">europium</sub></td><td class="second-td">Gd<sup class="ki">64</sup><sub class="so">gadolinium</sub></td><td class="second-td">Tb<sup class="ki">65</sup><sub class="so">terbium</sub></td><td class="second-td">Dy<sup class="ki">66</sup><sub class="so">dysprosium</sub></td><td class="second-td">Ho<sup class="ki">67</sup><sub class="so">holmium </sub></td><td class="second-td">Er<sup class="ki">68</sup><sub class="so">erbium</sub></td><td class="second-td">Tm<sup class="ki">69</sup><sub class="so">thuluim</sub></td><td class="second-td">Yb <sup class="ki">70</sup><sub class="so">ytterbium</sub></td>
+			<td class="second-td">Lu<sup class="ki">71</sup><sub class="so">lutetium</sub></td>
+		</tr>
+		<tr>
+			<td class="aid">.</td><td class="third-td">Ac<sup class="ki">89</sup><sub class="so">actinium</sub></td><td class="third-td">Th<sup class="ki">90</sup><sub class="so">thorium</sub></td><td class="third-td">Pa<sup class="ki">91</sup><sub class="so">protactinium</sub></td><td class="third-td">U<sup class="ki">92</sup><sub class="so">uranium</sub></td><td class="third-td">Np<sup class="ki">93</sup><sub class="so">neptunium</sub></td><td class="third-td">Pu<sup class="ki">94</sup><sub class="so">plutonium</sub></td><td class="third-td">Am<sup nclass="ki">95</sup><sub class="so">americium</sub></td><td class="third-td">Cm<sup class="ki">96</sup><sub class="so">curium</sub></td><td class="third-td">Bk<sup class="ki">97</sup><sub class="so">barkelium</sub></td><td class="third-td">Cf<sup class="ki">98</sup><sub class="so">californium</sub></td><td class="third-td">Es<sup class="ki">99</sup><sub class="so">einstenium</sub></td><td class="third-td">Fm<sup class="ki">100</sup><sub class="so">fermium</sub></td><td class="third-td">Md<sup class="ki">101</sup><sub class="so">mandelevium</sub></td><td class="third-td">No<sup class="ki">102</sup><sub class="so">nobelium</sub></td>
+			<td class="third-td">Lr <sup class="ki">103</sup><sub class="so">lawrencium</sub></td>
+			
+		</tr>
+</table>
+</body>
+</html>
+body{
+	background-image: url(image/bae.JPG);
+     margin:0px;
+	color: red;
+	font-family: batang;
+	font-size: 15px;
+	font-weight: bolder;
+	text-align: left;
+
+}
+h1{
+	text-transform: uppercase;
+	color:  white;
+	font-size: 30px;
+	font-family:"arial black";
+	text-align: center;
+}
+
+.second-table-row{
+	 
+}
+.table-text{border:0px;}
+.first-td
+{
+	background-color: grey;
+	text-align: right;
+}
+.second-td{
+	background-color: indigo;
+}
+.third-td{
+	background-color: violet;
+}
+.fourth-td{
+	background-color: orange;
+}
+.fifth-td{
+	background-color: gold;
+}
+.two-td{
+	background-color: green;
+}
+.five-tr{
+	background-color:indianred;
+	color: black;
+}
+.sixth-td{
+	background-color: blue;
+}
+.seventh-td{
+	background-color: red;
+	color: white;
+}
+.eight-td{
+	background-color: brown;
+}
+.ninth-td{
+	background-color: yellow;
+}
+.tenth-td{
+	background-color: silver;
+}
+.first-table{
+	float: left;
+	position: relative;
+	border: solid 1px black;
+	border-bottom: 0px
+	}
+.second-table{
+	margin-left: 19%;
+	position:relative;
+	border: solid 0px green; 	
+vertical-align:top;
+top:27px; 
+
+}
+.fit{
+	color: white;
+	font-family: "calibri body";
+	font-size: 15px;
+}
+.my{
+	color: red;
+	font-family: "batang";
+	font-size:25px;
+}
+.ol{
+	color: black;
+	font-family: "calibri body";
+font-size:15px;
+}
+.aid{
+	font-size: 200%;
+	font-family:"arial black";
+	border: 0px;
+	color: black;
+}
+.ki{
+	font-family: "calibri body";
+	font-size:10px;
+	color: white;
+}
+.first{
+	font-family: tahoma;
+	color: white;
+	font-weight: bolder;
+	font-size: 35px
+
+}
+.first-tr{empty-cells: hide;}
+.six-td{
+	background-color: pink;
+}
+.ty{
+
+	font-weight: 15px;
+	background-color: skyblue;
+	line-height: 2px;
+
+}
+.tf{
+	color: white;
+	background-color: indigo;
+	font-family: tahoma;
+	font-size: 20px;
+}
+.break{
+	border: 0px;
+	font-family:"calibri body";
+	font-size: 15px;
+	color: black;
+
+}
+.box{
+	background-color: grey;
+	color: grey;
+}
+.boxin{
+	background-color: orange;
+	color: orange;
+}
+.boxun{
+	background-color: gold;
+	color: gold;
+}
+.boxto{
+	background-color: yellow;
+	color:yellow;
+}
+button{
+	background-color: transparent;
+	font-family: "calibri body"
+}
+.breakin{
+	color: black;
+	font-family: "calibri body";
+	font-size:15px;
+	border: 0px
+} 
+.hat{
+	background-color: silver;
+	color: silver;
+
+}
+.po{
+	background-color: pink;
+	color: pink
+}
+.fu{
+	background-color: brown;
+	color: brown;
+}
+.ag{
+	background-color: indigo;
+	color: indigo;
+}
+.you{
+	background-color: violet;
+	color: violet;
+}
+.due{
+	font-size: 15px;
+	font-family: "calibri body";
+	border:0px;
+	color: black
+}
+.so{
+	font-family: "calibri  body";
+	font-size:10px;
+	color: black;
+	text-align: left;
+}
+.pit{
+	color: white;
+	border: 0px;
+	font-family: arial;
+	text-transform: uppercase;
+	font-size:15px;
+
+}
+
+.iron{
+	background-color: darkslategrey;
+}
+.nose{
+	border: 0px;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	empty-cells: hide;
+}
+.nose:hover{
+	cursor: blink;
+}
+.not{
+	border: 0px;
+	color: white;
+	font-size: 25px;
+}
